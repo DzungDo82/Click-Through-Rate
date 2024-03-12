@@ -5,3 +5,4 @@
 -	SQL: Designed table schemas and assembled a modeling dataset of over 2 million rows.
 -	Python: Utilized SQL Alchemy for connection and table loading, conducted feature engineering, binning, visualization, data cleaning, and model training.
   
+![image](https://github.com/DzungDo82/Click-Through-Rate/assets/138108830/111d5521-ce7f-4a28-870a-52c520c3bbe5)
