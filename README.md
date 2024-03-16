@@ -1,4 +1,4 @@
-# Click-Through-Rate
+# Click-Through Rate (CTR) project
 ### Tools used: SQL and Python (Machine Learning - imbalance dataset)
 
 -	Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.
